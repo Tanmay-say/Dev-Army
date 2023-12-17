@@ -1,3 +1,2 @@
 # Hello World
-# Pratham
-# From Dev 2
+# Hello world from Dev 2 
